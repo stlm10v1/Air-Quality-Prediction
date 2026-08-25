@@ -29,7 +29,7 @@ This project performs **multi-class classification** on a dataset containing sen
 
 ## 📁 Files Included
 
-* `Group4_Air_Quality_Project.ipynb` – Complete ML pipeline including EDA, feature engineering, and model training
+* `AQI_Phase1_EDA.ipynb`, `AQI_Phase2_classification.ipynb` – Complete ML pipeline including EDA, feature engineering, and model training
 * `AirQualityUCI.csv` – Raw sensor and weather dataset
 * `model_features_X.csv` – Processed and scaled feature dataset
 * `model_targets_y.csv` – Unscaled Ground Truth target values
